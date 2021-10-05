@@ -25,8 +25,11 @@ Kaggle dataset linked <a href="https://www.kaggle.com/raghadalharbi/all-products
 
 ## Tools Used
 Jupyter Notebook
+
 Python
+
 Postgres SQL
+
 <a href= "https://public.tableau.com/app/profile/stephanie.m.juniper/viz/Beauty_Habits/Dashboard?publish=yes">Tableau</a>
 
 <a href="https://docs.google.com/presentation/d/1zr0W1Iv2qmGYfFx5AMV01Xqiyhh5T5i6xiDZygsXNxc/edit#slide=id.gf540ed207d_1_8">Google Slides</a>
@@ -36,5 +39,7 @@ Stephanie Juniper
 
 
 stephanie.m.juniper@gmail.com
+
+
 ---
 ---
