@@ -28,7 +28,11 @@ After assessing the mean and median of the ratings (3.99 and 4, respectively). J
 
 After performing a Random Forest Classifier model the model was able to predict the outcome with an 83.8% accuracy,  with number of reviews, loves and price being the features of most importance. 
 
-### Key Findings and Recommendations
+## Key Findings and Recommendations
+My recommendations are to launch a product that is:
+- under $94 (retail)
+- available in store and online
+- engage in an social marketing campaign to ensure that their existing clientele actively review and “love” their product on Sephora.com
 
 
 ## Data Source
