@@ -25,9 +25,13 @@ The secondary purpose to discern if there is any relationship between price, Sep
 
 ### Definitions
 <b>Loves</b> - occur when a customer double clicks on product they like to add it to their personal “loves”.
-The <b>number of reviews</b>is a count of all the individual comments left about a product
-The <b>rating</b> is out of 5 stars and ranges from 0-5 in half star increments
+
+The <b>number of reviews</b>is a count of all the individual comments left about a product.
+
+The <b>rating</b> is out of 5 stars and ranges from 0-5 in half star increments.
+
 A <b>good rating</b> is a rating that is higher than the median/mean rating.
+
 <b>Exclusivity</b> refers to Sephora having the sole rights to distribute the product in the US.
 
 ## Analysis
