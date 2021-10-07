@@ -44,10 +44,57 @@ After performing a Random Forest Classifier model the model was able to predict 
 <b>Measures of Central Tendency</b>
 No matter how I sliced the data (Online only, exclusive, etc), the Mean and Median rating stayed at 4.0 Stars (Rounded to the Nearest Star)
 
+Stars:
+The most popular ratings:
+
+4.5 Stars (38%) 
+
+4.0 Stars (31%)
+
+Number of Reviews:
+
+Mean: 282 reviews 
+
+Median: 46 reviews
+
+Price
+Mean: $50.00
+
+Median: $35.00
+
+Mode: $25.00
+
+Loves
+
+Mean: 16,278.59
+
+Median: 4800
+
+99.6% of the  data have loves between 0 and 325,000 
+
+#### Most Loved Product:
+KVD Liquid Lipstick: 1, 300, 000 loves!
+
+Rating: 4.5 Stars
+
+Price: $21.00
+
+#### Most Reviewed Product:
+BareMinerals Foundation Loose Powder:191700 Reviews!
+
+Rating 4.5 Stars
+
+Price: $32.00
+
+
 ## Results
 After assessing the mean and median of the ratings (3.99 and 4, respectively). Juniper Beauty decided to use 4 star reviews or higher as their target.
 
 After performing a Random Forest Classifier model the model was able to predict the outcome with an 83.8% accuracy,  with number of reviews, loves and price being the features of most importance. 
+
+<img src = "Resources/Summary_table1.png"></img>
+
+<img src = "Resources/Summary_table2.png"></img>
 
 
 ## Key Findings and Recommendations
@@ -68,7 +115,6 @@ Jupyter Notebook
 
 Python
 
-Postgres SQL
 
 <a href= "https://public.tableau.com/app/profile/stephanie.m.juniper/viz/Beauty_Habits/Dashboard?publish=yes">Tableau</a>
 
